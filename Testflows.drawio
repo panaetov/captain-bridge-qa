@@ -179,31 +179,100 @@
         <mxCell id="2foq3zUWt_Xz09FHihWp-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-64" target="2foq3zUWt_Xz09FHihWp-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2foq3zUWt_Xz09FHihWp-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-64" target="2foq3zUWt_Xz09FHihWp-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-120" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2foq3zUWt_Xz09FHihWp-64" value="1. &lt;b&gt;Открывается список Джир&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="260" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="2foq3zUWt_Xz09FHihWp-67" value="Выбираем из списка ранее созданную Джиру и кликаем на неё один раз." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="235" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2foq3zUWt_Xz09FHihWp-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-74" target="2foq3zUWt_Xz09FHihWp-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-74" target="2foq3zUWt_Xz09FHihWp-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2foq3zUWt_Xz09FHihWp-74" value="1. &lt;b&gt;Открывается пустая форма.&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="410" width="260" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="2foq3zUWt_Xz09FHihWp-75" value="1. &lt;b&gt;Открывается форма с ранее сохранёнными данными.&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="350" width="260" height="115" as="geometry" />
+        <mxCell id="2foq3zUWt_Xz09FHihWp-78" value="Заполняются поля значениями:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;: test-1&lt;/div&gt;&lt;div&gt;&lt;b&gt;URL&lt;/b&gt;: https://google.com&lt;/div&gt;&lt;div&gt;&lt;b&gt;Authentication method&lt;/b&gt;: Personal Access Token&lt;/div&gt;&lt;div&gt;&lt;b&gt;Token&lt;/b&gt;: 123&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Projects&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="640" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2foq3zUWt_Xz09FHihWp-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-67" target="2foq3zUWt_Xz09FHihWp-75">
+        <mxCell id="2foq3zUWt_Xz09FHihWp-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-64" target="2foq3zUWt_Xz09FHihWp-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="178" as="sourcePoint" />
+            <mxPoint x="-270" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-80" target="2foq3zUWt_Xz09FHihWp-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2foq3zUWt_Xz09FHihWp-78" value="Заполняются поля значениями:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;: test-1&lt;/div&gt;&lt;div&gt;&lt;b&gt;URL&lt;/b&gt;: https://google.com&lt;/div&gt;&lt;div&gt;&lt;b&gt;Authentication method&lt;/b&gt;: Personal Access Token&lt;/div&gt;&lt;div&gt;&lt;b&gt;Token&lt;/b&gt;:&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Projects&lt;/b&gt;: PROJECT1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="640" width="280" height="160" as="geometry" />
+        <mxCell id="2foq3zUWt_Xz09FHihWp-80" value="Создаём 3 новые джиры с произвольными параметрами." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="147.5" width="210" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-82" target="2foq3zUWt_Xz09FHihWp-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-82" value="Переходим на список джир" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-84" target="2foq3zUWt_Xz09FHihWp-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-84" value="В списке есть все 3 ранее созданные джиры" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="520" width="260" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-86" target="2foq3zUWt_Xz09FHihWp-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-86" value="1. &lt;b&gt;Появляется сообщение&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px;&quot;&gt;ERROR: Projects are not set&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;Форма не сохраняется.&lt;/b&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1010" width="260" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-87" value="Нажатие кнопки &lt;b&gt;Сохранить&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="870" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-78" target="2foq3zUWt_Xz09FHihWp-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.405;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-87" target="2foq3zUWt_Xz09FHihWp-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-90" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-92" target="2foq3zUWt_Xz09FHihWp-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-92" value="Выбираем из списка каждую из ранее созданных Джир" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-94" target="2foq3zUWt_Xz09FHihWp-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-94" value="1. &lt;b&gt;Открывается форма с ранее сохранёнными данными.&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="800" width="260" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-96" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-98" target="2foq3zUWt_Xz09FHihWp-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-98" value="Заполняются поля значениями:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;b&gt;URL&lt;/b&gt;: https://google.com&lt;/div&gt;&lt;div&gt;&lt;b&gt;Authentication method&lt;/b&gt;: Personal Access Token&lt;/div&gt;&lt;div&gt;&lt;b&gt;Token&lt;/b&gt;: 123&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Projects&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: Projects&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="620" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-100" target="2foq3zUWt_Xz09FHihWp-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-100" value="Нажатие кнопки &lt;b&gt;Сохранить&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="870" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2foq3zUWt_Xz09FHihWp-103" target="2foq3zUWt_Xz09FHihWp-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-103" value="1. &lt;b&gt;Появляется сообщение&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px;&quot;&gt;ERROR: Name is empty.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;Форма не сохраняется.&lt;/b&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1020" width="260" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="2foq3zUWt_Xz09FHihWp-105" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1190" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
